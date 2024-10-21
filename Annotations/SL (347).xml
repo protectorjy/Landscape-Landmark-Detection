@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SL</folder>
+	<filename>SL (347).jpg</filename>
+	<path>E:\yxr_data\SL\SL (347).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SL</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>126</ymin>
+			<xmax>458</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

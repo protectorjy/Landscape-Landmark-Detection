@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SL</folder>
+	<filename>SL (276).jpg</filename>
+	<path>E:\yxr_data\SL\SL (276).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>260</ymin>
+			<xmax>390</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Eiffel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>38</ymin>
+			<xmax>596</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

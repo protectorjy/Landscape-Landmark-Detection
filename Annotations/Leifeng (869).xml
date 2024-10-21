@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leifeng</folder>
+	<filename>Leifeng (869).jpg</filename>
+	<path>E:\yxr_data\Visual_China_New\train_valid\Leifeng\Leifeng (869).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leifeng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>173</ymin>
+			<xmax>615</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

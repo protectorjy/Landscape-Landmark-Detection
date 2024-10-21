@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pyramids</folder>
+	<filename>Pyramid (986).jpg</filename>
+	<path>E:\1_31\Pyramids\Pyramid (986).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pyramid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>184</ymin>
+			<xmax>629</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

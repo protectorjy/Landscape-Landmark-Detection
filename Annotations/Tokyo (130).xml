@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tokyo</folder>
+	<filename>Tokyo (130).jpg</filename>
+	<path>F:\yaoxr\Visual_China_New\train_valid\Tokyo\Tokyo (130).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tokyo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>150</ymin>
+			<xmax>474</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

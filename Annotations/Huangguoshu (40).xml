@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Huang</folder>
+	<filename>Huangguoshu (40).jpg</filename>
+	<path>E:\1_31\Huang\Huangguoshu (40).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huangguoshu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>50</ymin>
+			<xmax>332</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

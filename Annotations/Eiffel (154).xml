@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eiffel</folder>
+	<filename>Eiffel (154).jpg</filename>
+	<path>E:\yxr_data\Visual_China_New\train_valid\Eiffel\Eiffel (154).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eiffel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>84</ymin>
+			<xmax>634</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

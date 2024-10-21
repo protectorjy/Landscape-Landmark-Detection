@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Canton</folder>
+	<filename>Canton (275).jpg</filename>
+	<path>E:\yxr_data\Visual_China_New\train_valid\Canton\Canton (275).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canton</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>165</ymin>
+			<xmax>289</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

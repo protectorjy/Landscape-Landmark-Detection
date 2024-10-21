@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teng</folder>
+	<filename>Teng (238).jpg</filename>
+	<path>E:\1_31\Teng\Teng (238).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Teng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>109</ymin>
+			<xmax>406</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

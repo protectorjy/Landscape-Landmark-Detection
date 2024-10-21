@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Oriental</folder>
+	<filename>Oriental (183).jpg</filename>
+	<path>E:\1_31\Oriental\Oriental (183).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oriental</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>173</ymin>
+			<xmax>468</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

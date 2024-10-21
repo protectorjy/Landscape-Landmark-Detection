@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pyramids</folder>
+	<filename>Pyramid (789).jpg</filename>
+	<path>E:\1_31\Pyramids\Pyramid (789).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pyramid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>332</ymin>
+			<xmax>206</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pyramid</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>178</ymin>
+			<xmax>800</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

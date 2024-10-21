@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Heaven</folder>
+	<filename>Heaven (498).jpg</filename>
+	<path>E:\yxr_data\Visual_China_New\train_valid\Heaven\Heaven (498).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heaven</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>26</ymin>
+			<xmax>779</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

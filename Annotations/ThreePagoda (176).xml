@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ThreePagoda</folder>
+	<filename>ThreePagoda (176).jpg</filename>
+	<path>E:\1_31\ThreePagoda\ThreePagoda (176).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThreePagoda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>140</ymin>
+			<xmax>447</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ThreePagoda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>144</ymin>
+			<xmax>447</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>
